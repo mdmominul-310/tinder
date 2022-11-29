@@ -1,0 +1,31 @@
+.footer-nav-item {
+    text-decoration: none;
+    color: #111;
+    display: block;
+    padding-top: 10px;
+
+}
+
+.footer-nav-item:hover {
+    color: #fd267a;
+
+}
+
+.footer-social {
+    margin-right: 10px;
+}
+
+.footer-icon:hover {
+    fill: #fd267a;
+}
+
+
+.copyright-item {
+    text-decoration: none;
+    color: #111;
+    padding-right: 10px;
+}
+
+.copyright-item:hover {
+    color: #fd267a
+}
